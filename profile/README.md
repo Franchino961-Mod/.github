@@ -3,7 +3,7 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Franchino961-Mod&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <img src="https://img.shields.io/badge/Focus-Minecraft-informational?style=flat" alt="Solo Minecraft" />
+    <img src="https://img.shields.io/badge/Focus-Mod-informational?style=flat" alt="Solo Mod" />
   </p>
 </div>
 
@@ -19,9 +19,9 @@
 
 | Progetto | Descrizione | Download | Linguaggio | Source Code |
 |----------|-------------|----------|------------|-------------|
-| 🦖 **Cobblemon - DynamaxUnleashed** | Permette di usare la Dynamax al di fuori delle battaglie | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="SourceCode"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-dynamax-unleashed) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-DynamaxUnleashed) |
-| ⛏️ **Cobblemon - FossilOre** | Introduce nuovi minerali per ottenere fossili | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="SourceCode"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-fossil-ore) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-FossilOre) |
-| 🧭 **Megashowdown - Meteorite Compass** | Permette di localizzare meteoriti contenenti la MegaStone | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="SourceCode"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown-meteorite-compass) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown-MeteoriteCompass) |
+| 🦖 **Cobblemon - DynamaxUnleashed** | Permette di usare la Dynamax al di fuori delle battaglie | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-dynamax-unleashed) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-DynamaxUnleashed) |
+| ⛏️ **Cobblemon - FossilOre** | Introduce nuovi minerali per ottenere fossili | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-fossil-ore) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-FossilOre) |
+| 🧭 **Megashowdown - Meteorite Compass** | Permette di localizzare meteoriti contenenti la MegaStone | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown-meteorite-compass) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown-MeteoriteCompass) |
 
 ---
 
