@@ -19,17 +19,19 @@
 
 | Progetto | Descrizione | Download | Linguaggio | Source Code |
 |----------|-------------|----------|------------|-------------|
+| ⚡ **AE2 Draconic Fusion Autocrafter** | Automatizza il Fusion Crafting con AE2 | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/ae2-draconic-fusion-autocrafter) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/AE2-Draconic-Fusion-Autocrafter) |
+| 🌾 **Cobblemon - CobbleFarm** | Aggiunge e migliora le meccaniche di farming | [<img src="https://img.shields.io/badge/Prossimamente-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-cobblefarm) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-CobbleFarm) |
 | 🦖 **Cobblemon - DynamaxUnleashed** | Permette di usare la Dynamax al di fuori delle battaglie | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-dynamax-unleashed) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-DynamaxUnleashed) |
 | ⛏️ **Cobblemon - FossilOre** | Introduce nuovi minerali per ottenere fossili | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-fossil-ore) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-FossilOre) |
 | 🗺️ **Cobblemon - Where Spawn** | Permette di localizzare i luoghi di spawn dei Pokémon | [<img src="https://img.shields.io/badge/Prossimamente-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-where-spawn) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-WhereSpawn) |
-| 🧭 **Megashowdown - Mega Compass** | Permette di localizzare le strutture di Mega Showdown | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown-meteorite-compass) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown_Mega-Compass) |
-| 🔋 **Soul Foundry** | Permette di farmare mob attraverso attraverso macchinari | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/soul-foundry) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Soul-Foundry) |
+| 🧭 **Megashowdown - Mega Compass** | Permette di localizzare le strutture di Mega Showdown | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown-mega-compass) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown_Mega-Compass) |
+| 🔋 **Soul Foundry** | Permette di farmare mob attraverso macchinari | [<img src="https://img.shields.io/badge/Prossimamente-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/soul-foundry) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Soul-Foundry) |
 
 ---
 
 ## 🚀 Cosa facciamo
 
-- Sviluppo di mod per Minecraft: nuove meccaniche, mob, blocchi, risorse e integrazioni con mod loader (Forge/Fabric).
+- Sviluppo di mod per Minecraft: nuove meccaniche, mob, blocchi, risorse e integrazioni con mod loader (Forge/NeoForge/Fabric).
 - Testing e compatibilità: garantiamo aggiornamenti e supporto alle versioni target.
 - Open Source: i progetti sono pubblici e aperti a contributi (licenza MIT quando indicato).
 
@@ -64,6 +66,7 @@ Per bug report o idee, apri un'issue nel repository corrispondente.
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/>
   <img src="https://img.shields.io/badge/Loader-Forge-563D7C?style=for-the-badge&logo=forge&logoColor=white" alt="Forge"/>
+  <img src="https://img.shields.io/badge/Loader-NeoForge-E25916?style=for-the-badge&logo=neoforge&logoColor=white" alt="NeoForge"/>
   <img src="https://img.shields.io/badge/Loader-Fabric-00ADEF?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric"/>
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
