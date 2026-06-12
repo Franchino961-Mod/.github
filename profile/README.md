@@ -1,43 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2400&pause=1500&color=9BE7FF&center=true&vCenter=true&width=900&lines=Franchino961-Mod;Account+personale+per+mod+Minecraft" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2400&pause=1500&color=9BE7FF&center=true&vCenter=true&width=900&lines=Franchino961-Mod;Personal+account+for+Minecraft+mods" alt="Typing SVG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Franchino961-Mod&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <img src="https://img.shields.io/badge/Focus-Mod-informational?style=flat" alt="Solo Mod" />
+    <img src="https://img.shields.io/badge/Focus-Mods-informational?style=flat" alt="Mods Only" />
   </p>
 </div>
 
 ---
 
-## 👋 Chi siamo
+## 👋 About Me
 
-`Franchino961-Mod` è il mio account personale dedicato esclusivamente allo sviluppo di mod per Minecraft. Qui pubblico mod, risorse e aggiornamenti pensati per migliorare l'esperienza di gioco e facilitare la condivisione con la community.
-
----
-
-## 🎯 Progetti attuali
-
-| Progetto | Descrizione | Download | Linguaggio | Source Code |
-|----------|-------------|----------|------------|-------------|
-| ⚡ **AE2 Draconic Fusion Autocrafter** | Automatizza il Fusion Crafting con AE2 | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/ae2-draconic-fusion-autocrafter) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/AE2-Draconic-Fusion-Autocrafter) |
-| 🌾 **Cobblemon - CobbleFarm** | Aggiunge e migliora le meccaniche di farming | [<img src="https://img.shields.io/badge/Prossimamente-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-cobblefarm) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-CobbleFarm) |
-| 🦖 **Cobblemon - DynamaxUnleashed** | Permette di usare la Dynamax al di fuori delle battaglie | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-dynamax-unleashed) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-DynamaxUnleashed) |
-| ⛏️ **Cobblemon - FossilOre** | Introduce nuovi minerali per ottenere fossili | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-fossil-ore) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-FossilOre) |
-| 🗺️ **Cobblemon - Where Spawn** | Permette di localizzare i luoghi di spawn dei Pokémon | [<img src="https://img.shields.io/badge/Prossimamente-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-where-spawn) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-WhereSpawn) |
-| 🧭 **Megashowdown - Mega Compass** | Permette di localizzare le strutture di Mega Showdown | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown-mega-compass) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown_Mega-Compass) |
-| 🔋 **Soul Foundry** | Permette di farmare mob attraverso macchinari | [<img src="https://img.shields.io/badge/Prossimamente-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/soul-foundry) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Soul-Foundry) |
+This is my personal developer account dedicated exclusively to the creation and maintenance of Minecraft mods. Here, I publish mods, custom resources, and updates designed to enhance gameplay and share creative content with the community.
 
 ---
 
-## 🚀 Cosa facciamo
+## 🎯 Current Projects
 
-- Sviluppo di mod per Minecraft: nuove meccaniche, mob, blocchi, risorse e integrazioni con mod loader (Forge/NeoForge/Fabric).
-- Testing e compatibilità: garantiamo aggiornamenti e supporto alle versioni target.
-- Open Source: i progetti sono pubblici e aperti a contributi (licenza MIT quando indicato).
+| Project | Description | Download | Language | Source Code |
+| :--- | :--- | :---: | :---: | :---: |
+| ⚡ **AE2 Draconic Fusion Autocrafter** | Automates Fusion Crafting from Draconic Evolution using Applied Energistics 2 (AE2) | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/ae2-draconic-fusion-autocrafter) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/AE2-Draconic-Fusion-Autocrafter) |
+| 🌾 **Cobblemon - CobbleFarm** | Adds tier-based production blocks to automate harvesting of Pokémon item drops | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-cobblefarm) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-CobbleFarm) |
+| 🦖 **Cobblemon - DynamaxUnleashed** | Allows using Dynamax and Gigantamax forms in the overworld outside of battles (requires Mega Showdown) | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-dynamax-unleashed) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-DynamaxUnleashed) |
+| ⛏️ **Cobblemon - FossilOre** | Adds naturally generating Marine, Terrestrial, and Ancient fossil ores to discover fossils | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-fossil-ore) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-FossilOre) |
+| 🗺️ **Cobblemon - Where Spawn** | Provides in-game search tool to easily locate Pokémon spawn regions and conditions | [<img src="https://img.shields.io/badge/Coming_Soon-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-where-spawn) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-WhereSpawn) |
+| 🧭 **Megashowdown - Mega Compass** | Adds compasses that locate structures from the Mega Showdown mod using async pathfinding | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown-mega-compass) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown_Mega-Compass) |
+| 🔋 **Soul Foundry** | Automates mob farming utilizing advanced technical machinery and customizable setups | [<img src="https://img.shields.io/badge/Coming_Soon-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/soul-foundry) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Soul-Foundry) |
+
 
 ---
 
-## 💻 Tecnologie principali
+## 🚀 What I Do
+
+- **Minecraft Mod Development**: Designing and programming custom mechanics, mobs, blocks, and integrations across major mod loaders (Forge, NeoForge, and Fabric).
+- **Testing & Compatibility**: Ensuring constant updates, stability, and compatibility with target Minecraft versions.
+- **Open Source**: Sharing source code to encourage community collaboration, feedback, and open development (under the MIT license where applicable).
+
+---
+
+## 💻 Core Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -48,20 +49,20 @@
 
 ---
 
-## 🤝 Come contribuire
+## 🤝 How to Contribute
 
-Contribuire è semplice:
+Contributions are highly appreciated! Here is how you can get involved:
 
-1. Fork del repository del progetto.
-2. Crea un branch dedicato: `git checkout -b feature/nome-feature`.
-3. Aggiungi commit chiari e descrittivi.
-4. Apri una Pull Request descrivendo le modifiche.
+1. **Fork** the repository of the project you want to contribute to.
+2. Create a dedicated feature branch: `git checkout -b feature/your-feature-name`.
+3. Commit your changes with clear, descriptive commit messages.
+4. Open a **Pull Request** detailing your changes.
 
-Per bug report o idee, apri un'issue nel repository corrispondente.
+For bug reports, feature requests, or suggestions, please open an issue in the respective project repository.
 
 ---
 
-## 📊 Statistiche e feed
+## 📊 Stats & Info
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/>
@@ -75,7 +76,7 @@ Per bug report o idee, apri un'issue nel repository corrispondente.
 
 ---
 
-## 📫 Contatti
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://discord.gg/d8rNwNxQEw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -89,25 +90,25 @@ Per bug report o idee, apri un'issue nel repository corrispondente.
 
 <p align="center">
   <a href="https://github.com/orgs/Franchino961-Mod/repositories">
-    <img src="https://img.shields.io/badge/Vedi_Tutte_le_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
   </a>
 </p>
 
 ---
 
-## ⭐ Supportaci
+## ⭐ Support My Work
 
-Se ti piacciono i nostri progetti, considera di:
-- ⭐ Dare una stella ai repository che ti interessano
-- 🐛 Segnalare bug e problemi
-- 💡 Proporre nuove idee e features
-- 🤝 Contribuire al codice
+If you enjoy these projects, please consider supporting them by:
+- ⭐ **Starring** the repositories you use or like
+- 🐛 **Reporting** bugs and issues to help improve stability
+- 💡 **Proposing** new features or feedback
+- 🤝 **Contributing** code and raising pull requests
 
 ---
 
 <div align="center">
   
-### 🌟 Grazie per il supporto!
+### 🌟 Thank you for your support!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
