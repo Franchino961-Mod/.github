@@ -1,119 +1,249 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2400&pause=1500&color=9BE7FF&center=true&vCenter=true&width=900&lines=Franchino961-Mod;Personal+account+for+Minecraft+mods" alt="Typing SVG" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Franchino961-Mod&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <img src="https://img.shields.io/badge/Focus-Mods-informational?style=flat" alt="Mods Only" />
-  </p>
-</div>
-
----
-
-## 👋 About Me
-
-This is my personal developer account dedicated exclusively to the creation and maintenance of Minecraft mods. Here, I publish mods, custom resources, and updates designed to enhance gameplay and share creative content with the community.
-
----
-
-## 🎯 Current Projects
-
-| Project | Description | Download | Language | Source Code |
-| :--- | :--- | :---: | :---: | :---: |
-| ⚡ **AE2 Draconic Fusion Autocrafter** | Automates Fusion Crafting from Draconic Evolution using Applied Energistics 2 (AE2) | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/ae2-draconic-fusion-autocrafter) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/AE2-Draconic-Fusion-Autocrafter) |
-| 🌾 **Cobblemon - CobbleFarm** | Adds tier-based production blocks to automate harvesting of Pokémon item drops | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-cobblefarm) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-CobbleFarm) |
-| 🦖 **Cobblemon - DynamaxUnleashed** | Allows using Dynamax and Gigantamax forms in the overworld outside of battles (requires Mega Showdown) | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-dynamax-unleashed) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-DynamaxUnleashed) |
-| ⛏️ **Cobblemon - FossilOre** | Adds naturally generating Marine, Terrestrial, and Ancient fossil ores to discover fossils | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-fossil-ore) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-FossilOre) |
-| 🗺️ **Cobblemon - Where Spawn** | Provides in-game search tool to easily locate Pokémon spawn regions and conditions | [<img src="https://img.shields.io/badge/Coming_Soon-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-where-spawn) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-WhereSpawn) |
-| 🧭 **Megashowdown - Mega Compass** | Adds compasses that locate structures from the Mega Showdown mod using async pathfinding | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown-mega-compass) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown_Mega-Compass) |
-| 🔋 **Soul Foundry** | Automates mob farming utilizing advanced technical machinery and customizable setups | [<img src="https://img.shields.io/badge/Coming_Soon-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/mc-mods/soul-foundry) | <img src="https://img.shields.io/badge/Java-orange" alt="Java"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-Mod/Soul-Foundry) |
-
-
----
-
-## 🚀 What I Do
-
-- **Minecraft Mod Development**: Designing and programming custom mechanics, mobs, blocks, and integrations across major mod loaders (Forge, NeoForge, and Fabric).
-- **Testing & Compatibility**: Ensuring constant updates, stability, and compatibility with target Minecraft versions.
-- **Open Source**: Sharing source code to encourage community collaboration, feedback, and open development (under the MIT license where applicable).
-
----
-
-## 💻 Core Technologies
+<p align="center">
+  <img src="./header.svg" alt="Header Banner" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2400&pause=1500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Minecraft+Mod+Developer;Forge+%2F+NeoForge+%2F+Fabric+Developer;Systems+%26+Gameplay+Integrator" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Italy-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Franchino961-Mod" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.curseforge.com/members/franchino961/projects" target="_blank">
+    <img src="https://img.shields.io/badge/CurseForge-My%20Projects-6366F1?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" />
+  </a>
+  <a href="https://discord.gg/d8rNwNxQEw" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-4C1D95?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/megustalamangusta" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-3B82F6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Franchino961-Mod&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Franchino961-Mod?label=Followers&color=6366F1&style=flat-square" alt="Followers Badge" />
+  <img src="https://img.shields.io/github/stars/Franchino961-Mod?label=Total%20Stars&color=4C1D95&style=flat-square" alt="Stars Badge" />
 </p>
 
 ---
 
-## 🤝 How to Contribute
+## 🌌 About Me
 
-Contributions are highly appreciated! Here is how you can get involved:
+I am a Minecraft mod developer specializing in systems integration, gameplay mechanics, and automation tooling. I design and maintain performance-oriented mods using Java and Kotlin across major loaders (Forge, NeoForge, and Fabric), ensuring seamless compatibility and stability.
 
-1. **Fork** the repository of the project you want to contribute to.
-2. Create a dedicated feature branch: `git checkout -b feature/your-feature-name`.
-3. Commit your changes with clear, descriptive commit messages.
-4. Open a **Pull Request** detailing your changes.
+- **Minecraft Mod Engineering**: Custom mechanics, pathfinding features, and gameplay automation.
+- **Cross-Loader Stability**: Developing modular structures targeting multiple versions and API environments.
+- **Open Source Collaboration**: Sharing optimized codebases to help server admins and developers build custom modded setups.
 
-For bug reports, feature requests, or suggestions, please open an issue in the respective project repository.
+### 🚀 Open To
+- Custom mod commissions for large-scale servers and modpack distributions.
+- Integrating external automation tooling with Java/Kotlin game environments.
+- High-performance algorithm optimization contracts.
 
 ---
 
-## 📊 Stats & Info
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/>
-  <img src="https://img.shields.io/badge/Loader-Forge-563D7C?style=for-the-badge&logo=forge&logoColor=white" alt="Forge"/>
-  <img src="https://img.shields.io/badge/Loader-NeoForge-E25916?style=for-the-badge&logo=neoforge&logoColor=white" alt="NeoForge"/>
-  <img src="https://img.shields.io/badge/Loader-Fabric-00ADEF?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric"/>
-  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=github&logoColor=white" alt="MIT"/>
+### Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-6366F1?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Gradle-4C1D95?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/VS_Code-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-6366F1?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Featured Projects
+
+<details>
+  <summary><b>⚡ AE2 Draconic Fusion Autocrafter</b></summary>
+  <br/>
+  
+  Automates the complex Fusion Crafting process from Draconic Evolution using Applied Energistics 2.
+  
+  | Spec | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, Forge/NeoForge, AE2 API |
+  | **Scale** | Crucial technical block for late-game modded automation |
+  | **Performance** | O(1) inventory check times, fully multithread-safe |
+  | **Security** | Sandboxed server side container registry checks |
+  | **Impact** | Eliminates manual item management loops for high-tier upgrades |
+  | **Repository** | [AE2-Draconic-Fusion-Autocrafter](https://github.com/Franchino961-Mod/AE2-Draconic-Fusion-Autocrafter) |
+</details>
+
+<details>
+  <summary><b>🌾 Cobblemon - CobbleFarm</b></summary>
+  <br/>
+  
+  Adds tier-based block machinery to automate harvesting and farming Pokémon drop items.
+  
+  | Spec | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, Cobblemon API, Forge/Fabric |
+  | **Scale** | Broad deployment on dedicated automation servers |
+  | **Performance** | Cached drops lookup table, minimal entity update ticking |
+  | **Security** | Compliant with Spigot/Forge block interaction permissions |
+  | **Impact** | Bridges Minecraft technology mods and Cobblemon resource loops |
+  | **Repository** | [Cobblemon-CobbleFarm](https://github.com/Franchino961-Mod/Cobblemon-CobbleFarm) |
+</details>
+
+<details>
+  <summary><b>🦖 Cobblemon - DynamaxUnleashed</b></summary>
+  <br/>
+  
+  Enables giant overworld Dynamax and Gigantamax form models outside standard battles.
+  
+  | Spec | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, Kotlin, Cobblemon, Mega Showdown Integration |
+  | **Scale** | Immersion-enhancing server utility |
+  | **Performance** | Optimized client-side model updates, zero tick latency |
+  | **Security** | Safe custom animation and size scaling constraints |
+  | **Impact** | Lets server admins introduce visually stunning boss battles |
+  | **Repository** | [Cobblemon-DynamaxUnleashed](https://github.com/Franchino961-Mod/Cobblemon-DynamaxUnleashed) |
+</details>
+
+<details>
+  <summary><b>⛏️ Cobblemon - FossilOre</b></summary>
+  <br/>
+  
+  Adds naturally spawning fossil ores in deep caves and ocean floors.
+  
+  | Spec | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, WorldGen Engine, Forge/Fabric |
+  | **Scale** | Integrates directly into vanilla world generation tables |
+  | **Performance** | Fast chunk generation profiles, lightweight ore dictionary registrations |
+  | **Security** | Safe chunk loading checks during worldgen steps |
+  | **Impact** | Creates a vanilla-friendly pathway for players to obtain fossilized items |
+  | **Repository** | [Cobblemon-FossilOre](https://github.com/Franchino961-Mod/Cobblemon-FossilOre) |
+</details>
+
+<details>
+  <summary><b>🗺️ Cobblemon - Where Spawn</b></summary>
+  <br/>
+  
+  Provides a clean, in-game search user interface to locate spawn requirements.
+  
+  | Spec | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, UI Graphics Engine, Cobblemon |
+  | **Scale** | Essential gameplay helper with highly interactive displays |
+  | **Performance** | Cached registry queries, lazy texture assets load |
+  | **Security** | Completely client-side safe execution |
+  | **Impact** | Simplifies spawning knowledge queries directly within the game client |
+  | **Repository** | [Cobblemon-WhereSpawn](https://github.com/Franchino961-Mod/Cobblemon-WhereSpawn) |
+</details>
+
+<details>
+  <summary><b>🧭 Megashowdown - Mega Compass</b></summary>
+  <br/>
+  
+  Structure-locating compasses using asynchronous pathfinding.
+  
+  | Spec | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, Pathfinding Engine, Spigot/Forge APIs |
+  | **Scale** | Utility items helping players target specific map highlights |
+  | **Performance** | Async background structure calculations to eliminate lag |
+  | **Security** | Checked against chunk load constraints |
+  | **Impact** | Solves early game traversal issues on large servers |
+  | **Repository** | [Cobblemon-Megashowdown_Mega-Compass](https://github.com/Franchino961-Mod/Cobblemon-Megashowdown_Mega-Compass) |
+</details>
+
+<details>
+  <summary><b>🔋 Soul Foundry</b></summary>
+  <br/>
+  
+  Automates mob farming using technical components and machinery.
+  
+  | Spec | Detail |
+  | :--- | :--- |
+  | **Stack** | Java, Forge API, Gradle |
+  | **Scale** | End-game factory integration features |
+  | **Performance** | Heavy execution steps run off main tick thread |
+  | **Security** | Prevents chunk loading locks and loop traps |
+  | **Impact** | Scalable block-machinery for server mob processing loops |
+  | **Repository** | [Soul-Foundry](https://github.com/Franchino961-Mod/Soul-Foundry) |
+</details>
+
+---
+
+## 💼 Experience
+
+### Lead Mod Architect & Open Source Maintainer
+**Franchino961-Mod (Open Source)** | *2023 - Present*
+- Engineered high-performance structures and custom block systems in Forge, NeoForge, and Fabric.
+- Wrote asynchronous pathfinding solutions to eliminate main tick thread locks on large server clusters.
+- Configured automated Gradle build matrices and test deployments using GitHub Actions.
+- `Minecraft Mods` `Java` `Kotlin` `NeoForge` `Gradle`
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+| :--- | :--- |
+| **Active Open Source Contributor** | Developed and maintained mod expansions with thousands of downloads. |
+| **Optimization Design** | Successfully reduced CPU ticking overhead by rewriting registry queries and custom block triggers. |
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://discord.gg/d8rNwNxQEw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://t.me/megustalamangusta" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://github.com/Franchino961-Mod" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franchino961-Mod/.github/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franchino961-Mod/.github/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Franchino961-Mod/.github/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 📜 Repositories
+## 🎯 Current Focus
+
+```yaml
+learning: "Advanced NeoForge Capability APIs & Kotlin Modding Patterns"
+building: "Performance-tuned pathfinding algorithms for custom compass tooling"
+exploring: "Multiplayer client-server packet optimization"
+openTo: "Custom mod commissions, technical modpack consulting"
+```
+
+---
+
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/orgs/Franchino961-Mod/repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+  <a href="https://github.com/Franchino961-Mod" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.curseforge.com/members/franchino961/projects" target="_blank">
+    <img src="https://img.shields.io/badge/CurseForge-My%20Projects-6366F1?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" />
+  </a>
+  <a href="https://discord.gg/d8rNwNxQEw" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-4C1D95?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/megustalamangusta" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Message_Me-3B82F6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 ---
 
-## ⭐ Support My Work
-
-If you enjoy these projects, please consider supporting them by:
-- ⭐ **Starring** the repositories you use or like
-- 🐛 **Reporting** bugs and issues to help improve stability
-- 💡 **Proposing** new features or feedback
-- 🤝 **Contributing** code and raising pull requests
-
----
-
-<div align="center">
-  
-### 🌟 Thank you for your support!
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <i>"Simplicity is the ultimate sophistication. Code is the architecture."</i>
 </p>
 
-**Made with 💙 by Franchino961**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1&height=120&section=footer" alt="Footer Banner" />
+</p>
